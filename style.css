@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.align-centre {
+    text-align: center;
+    background-image: url(images/donation10.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1500px;
+}
