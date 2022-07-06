@@ -1,11 +1,169 @@
 body {
     font-family: 'Roboto', sans-serif;
+
 }
 
-.align-centre {
-    text-align: center;
-    background-image: url(images/donation10.jpg);
+.first-section {
+    background-image: url(images/donation2.jpg);
     background-repeat: no-repeat;
-    height: 600px;
-    width: 1500px;
+    background-position: center;
+    background-size: cover;
+    height: 1020px;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.help-section {
+    font-size: 100px;
+    font-weight: 700;
+    color: white;
+}
+
+
+
+
+
+
+.donate-section {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.other-ammount {
+    border-style: solid;
+}
+
+
+.volunteer-section {
+    display: flex;
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.image-size {
+    width: 600px;
+    height: 400px;
+    margin-left: 40%;
+
+}
+
+#two-tk {
+    border: 2px solid tomato;
+    padding: 50px;
+    margin-left: 20px;
+    color: tomato;
+    background-color: rgb(243, 207, 207);
+}
+
+.tk-box {
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 100px;
+}
+
+.tk-design {
+    color: rgb(70, 70, 68);
+    background-color: aliceblue;
+    padding: 50px;
+    margin-left: 20px;
+}
+
+.img-plan {
+    display: flex;
+
+
+    height: 450px;
+
+}
+
+.food-design {
+    background-color: pink;
+    margin-left: 10%;
+    width: 25%;
+    padding: 60px 20px;
+
+}
+
+.shelter-design {
+    background-color: rgb(154, 111, 196);
+    margin-left: 3%;
+    width: 25%;
+    padding: 60px 20px;
+
+}
+
+.education-design {
+    background-color: rgb(33, 110, 110);
+    margin-left: 3%;
+    width: 25%;
+    padding: 60px 20px;
+
+}
+
+.donation-plan-section {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.update-section {
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+.font-size {
+    font-size: 65px;
+    text-align: center;
+}
+
+.font-width {
+    font-size: 20px;
+    text-align: center;
+}
+
+.email-color {
+    background-color: azure;
+    border: 0px solid;
+    font-size: 20px;
+    padding: 10px 20px;
+
+}
+
+.subscribe-color {
+    color: white;
+    text-decoration: none;
+    border: 0px solid;
+    background-color: tomato;
+    font-size: 20px;
+    padding: 15px 20px;
+
+}
+
+.email-box {
+    background-color: rgb(18, 109, 145);
+    height: 200px;
+    width: 60%;
+    border-radius: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 120px;
+
+}
+
+.footer-part {
+    height: 130px;
+    text-align: center;
+    background-color: black;
+    padding: 40px 80px;
+    margin-top: 10%;
+}
+
+footer h1 {
+    color: rgb(247, 183, 9);
+}
+
+footer p {
+    color: tomato
 }
